@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FadingTextViewKotlin</string>
+
+    <string-array name="textos">
+        <item>""</item>
+    </string-array>
+
+</resources>
